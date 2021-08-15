@@ -1,6 +1,15 @@
 version: "2.0"
 
 nlu:
+- intent: gidiyorum
+  examples: |
+    - gidiyorum
+    - gidiyore
+    - gidiyom
+    - gettim
+    - gidiyom 
+
+
 - intent: greet
   examples: |
     - hey

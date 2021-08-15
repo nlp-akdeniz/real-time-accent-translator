@@ -7,6 +7,9 @@ authors = ["utkusaglm <saglmutku@gmail.com>"]
 [tool.poetry.dependencies]
 python = "3.8"
 rasa = "^2.8.2"
+SpeechRecognition = "^3.8.1"
+gTTS = "^2.2.3"
+ipdb = "^0.13.9"
 
 [tool.poetry.dev-dependencies]
 
